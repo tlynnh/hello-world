@@ -1,2 +1,2 @@
 # hello-world
-test repository
+forays into the world of data science
